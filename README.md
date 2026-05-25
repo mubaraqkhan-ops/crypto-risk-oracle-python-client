@@ -16,7 +16,7 @@ Use this API to confidently manage position sizing and dynamic trailing stop-los
 * **Cryptographic Proof:** Every API response is ECDSA-signed for immutable audit trails.
 
 ## 📖 Complete Documentation
-**[Read the full API Reference and Integration Guide Here](https://doc.mindcare.agency)**
+**[Read the full API Reference and Integration Guide Here](https://mindcareagency.mintlify.app/)**
 
 ## Quick Start
 
